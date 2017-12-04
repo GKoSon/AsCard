@@ -1,0 +1,4 @@
+---- ForPlusPlusLog2 Matches (3 in 2 files) ----
+Window.cpp:        ForPlusPlusLog2();
+Window.cpp:void Window::ForPlusPlusLog2(void)
+Window.h:    void ForPlusPlusLog2(void);
